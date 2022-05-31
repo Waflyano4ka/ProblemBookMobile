@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/drawable-v24/button_style.xml" value="0.2765" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/drawable-v24/ic_pb_logo.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/drawable-v24/ic_pb_logo_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/drawable/account_style.xml" value="0.2765" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/drawable/button_style_2.xml" value="0.2765" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/drawable/card_style.xml" value="0.3665" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/drawable/edit_text_style.xml" value="0.297" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/drawable/ic_account.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/drawable/ic_launcher_pb_logo_background.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/drawable/ic_launcher_pb_logo_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/activity_daetail_task.xml" value="0.3446557971014493" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/activity_detail_task.xml" value="0.3446557971014493" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/activity_launch.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/fragment_account.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/fragment_account2.xml" value="0.17147922998986828" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/fragment_archive.xml" value="0.21195652173913043" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/fragment_project.xml" value="0.14513677811550152" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/fragments_account.xml" value="0.17831813576494426" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/project_card.xml" value="0.2178988326848249" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/layout/task_card.xml" value="0.3446557971014493" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/menu/bottom_menu.xml" value="0.1824074074074074" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher_pb_logo.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ProblemBookMobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher_pb_logo_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
